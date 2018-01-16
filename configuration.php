@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = '';
-	public $db = 'root';
+	public $db = 'root2';
 	public $dbprefix = 'root_';
 	public $live_site = '';
 	public $secret = 'NyrDw4x3EYoyb2Yh';
@@ -56,8 +56,8 @@ class JConfig {
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
 	public $feed_email = 'none';
-	public $log_path = 'C:\\wamp64\\www\\Projet_annuel_M1\\administrator/logs';
-	public $tmp_path = 'C:\\wamp64\\www\\Projet_annuel_M1/tmp';
+	public $log_path = 'C:\\wamp64\\www\\Projet_Annuel_M1\\administrator/logs';
+	public $tmp_path = 'C:\\wamp64\\www\\Projet_Annuel_M1/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $shared_session = '0';
