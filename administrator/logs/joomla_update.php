@@ -30,3 +30,5 @@
 2018-01-31T08:27:15+00:00	INFO ::1	update	Effacement des fichiers et dossiers à supprimer.
 2018-01-31T08:27:29+00:00	INFO ::1	update	Mise en ordre après installation.
 2018-01-31T08:27:29+00:00	INFO ::1	update	La mise à jour vers la version 3.8.4 est achevée.
+2018-02-27T09:27:59+00:00	INFO ::1	update	Mise à jour lancée par l'utilisateur Super Utilisateur (77). L'ancienne version est 3.8.4.
+2018-02-27T09:28:02+00:00	INFO ::1	update	Téléchargement du fichier de mise à jour depuis https://s3-us-west-2.amazonaws.com/joomla-official-downloads/joomladownloads/joomla3/Joomla_3.8.5-Stable-Update_Package.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZ6S3Q3YQHG57ZRA%2F20180227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20180227T092935Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=cb4c692461733153f759ceb30bf62391a2e05ddf81e50110eee4dd982c4aee0a.
